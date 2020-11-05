@@ -1,0 +1,260 @@
+{
+"getAPIResponse": {
+  " paging": {
+    "next": "https://apisio.scalingo.io/api/apis?skip=10",
+    "previous": "https://apisio.scalingo.io/api/apis?skip=0"
+  },
+  "data": [
+    {
+      "createdAt": "2020-10-18T05:51:12.580Z",
+      "image": "https://quickchart.io/apple-touch-icon.png",
+      "baseURL": "https://quickchart.io/",
+      "authoritative": true,
+      "contact": [
+        {
+          "X-twitter": "quickchart_io",
+          "organizationName": "QuickChart",
+          "FN": "Ian Webster",
+          "email": "support@quickchart.io",
+          "url": "https://quickchart.io/"
+        }
+      ],
+      "name": "Chart Image API",
+      "description": "QuickChart is a cloud chart rendering service. Its chart API generates charts and graphs that can be directly embedded in messages and documents, removing the need for render infrastructure in your app.\n\n  QuickChart is open-source and compatible with the popular Chart.js and Google Charts frameworks.  Use QuickChart to easily send your charts in email and anywhere else.",
+      "apiFileUrl": "https://quickchart.io/apis.json",
+      "properties": [
+      ],
+      "slug": "chart-image-api",
+      "humanURL": "https://quickchart.io/",
+      "updatedAt": "2020-10-18T05:51:12.698Z"
+    },
+    {
+      "createdAt": "2020-09-25T08:26:21.171Z",
+      "image": "https://seekstorm.com/android-chrome-512x512.png",
+      "baseURL": "https://seekstorm.com",
+      "authoritative": true,
+      "contact": [
+      ],
+      "name": "SeekStorm Search as a service",
+      "description": "SeekStorm is a Search as a Service. The search API offers web scale, real time, full text, instant search for your data and documents. \nSeekStorm is also a Crawler as a Service. A high-performance, focused crawler turns any website into searchable JSON docs .",
+      "apiFileUrl": "https://seekstorm.com",
+      "properties": [
+      ],
+      "slug": "seekstorm-search-as-a-service",
+      "humanURL": "https://seekstorm.com",
+      "updatedAt": "2020-09-25T08:38:25.236Z"
+    },
+    {
+      "image": "",
+      "authoritative": true,
+      "description": "REST API that converts many URLs to PDF automatically",
+      "tags": [
+      ],
+      "createdAt": "2020-09-07T11:11:43.151Z",
+      "baseURL": "https://pdfmyurl.com/batch-web-to-pdf-api",
+      "contact": [
+      ],
+      "name": "Batch URL to PDF API",
+      "apiFileUrl": "https://pdfmyurl.com/apis.json",
+      "properties": [
+      ],
+      "slug": "batch-url-to-pdf-api",
+      "humanURL": "https://pdfmyurl.com/batch-web-to-pdf-api",
+      "updatedAt": "2020-09-07T11:11:43.714Z"
+    },
+    {
+      "image": "",
+      "authoritative": true,
+      "description": "REST API for webpage / URL / HTML to PDF conversion. Create high-quality PDF documents quickly, efficiently and cost-effectively in any programming language such as PHP / .NET / Ruby / Perl / Python etc. Use it to create high-quality invoices, reports, tickets, e-books, brochures and much more!",
+      "tags": [
+        "html to pdf",
+        "url to pdf",
+        "html to pdf conversion",
+        "webpage to pdf conversion"
+      ],
+      "createdAt": "2020-09-07T11:09:31.443Z",
+      "baseURL": "https://pdfmyurl.com/html-to-pdf-api",
+      "contact": [
+        {
+          "FN": "PDFmyURL",
+          "email": "support@pdfmyurl.com"
+        }
+      ],
+      "name": "HTML / URL / webpage to PDF conversion API",
+      "apiFileUrl": "https://pdfmyurl.com/apis.json",
+      "properties": [
+      ],
+      "slug": "html-url-webpage-to-pdf-conversion-api",
+      "humanURL": "https://pdfmyurl.com/html-to-pdf-api",
+      "updatedAt": "2020-09-07T11:09:31.570Z"
+    },
+    {
+      "createdAt": "2020-05-02T20:04:37.856Z",
+      "image": "",
+      "baseURL": "http://www.vehicleregistrationapi.com/",
+      "authoritative": true,
+      "contact": [
+      ],
+      "name": "Vehicle Registration API",
+      "description": "Determine the make, model, age, and VIN of a vehicle from it's license plate",
+      "apiFileUrl": "http://www.vehicleregistrationapi.com/apis.json",
+      "properties": [
+      ],
+      "slug": "vehicle-registration-api",
+      "humanURL": "http://www.vehicleregistrationapi.com/",
+      "updatedAt": "2020-05-02T20:04:38.338Z"
+    },
+    {
+      "image": "https://fmpcloud.io/assets/icon-512x512.png",
+      "authoritative": true,
+      "description": "Access stock prices. Financial statements API, real stock price values API. SEC edgar API with all filings in real time. Free stock API to discover financial data instantly",
+      "tags": [
+        "application programming interface",
+        "API",
+        "Tech",
+        "Financial Statements API",
+        "Stock prices API",
+        "Historical data API",
+        "Financial API"
+      ],
+      "createdAt": "2020-03-30T15:50:18.728Z",
+      "baseURL": "https://fmpcloud.io/api/v3/",
+      "contact": [
+        {
+          "FN": "FmpCloud Team",
+          "email": "support@fmpcloud.io"
+        }
+      ],
+      "name": "FmpCoud",
+      "apiFileUrl": "https://fmpcloud.io/apis.json",
+      "properties": [
+        {
+          "type": "X-signup",
+          "url": "https://fmpcloud.io/login"
+        }
+      ],
+      "slug": "fmpcoud",
+      "humanURL": "https://fmpcloud.io/documentation",
+      "updatedAt": "2020-03-30T15:50:19.232Z"
+    },
+    {
+      "image": "https://ipinfo.io/developers",
+      "authoritative": true,
+      "description": "We're the trusted source for IP address information, handling 12 billion IP geolocation API requests per month for over 1,000 businesses and 100,000+ developers.",
+      "tags": [
+      ],
+      "createdAt": "2020-03-26T12:15:26.119Z",
+      "baseURL": "https://ipinfo.io/",
+      "contact": [
+        {
+          "FN": "IPInfo Support Team",
+          "Url": "support@ipinfo.io"
+        }
+      ],
+      "name": "IPInfo Geolocation API",
+      "apiFileUrl": "https://ipinfo.io/apis.json",
+      "properties": [
+        {
+          "type": "X-blog",
+          "url": "http://blog.fitbit.com/"
+        },
+        {
+          "type": "X-github",
+          "url": "https://github.com/ipinfo"
+        },
+        {
+          "type": "X-twitter",
+          "url": "https://twitter.com/ipinfoio"
+        }
+      ],
+      "slug": "ipinfo-geolocation-api",
+      "humanURL": "https://ipinfo.io/developers",
+      "updatedAt": "2020-03-26T12:15:26.557Z"
+    },
+    {
+      "image": "https://tradematic.cloud/logo.png",
+      "authoritative": true,
+      "description": "Tradematic Cloud is a back-end infrastructure for building investment and trading apps. It\u2019s a powerful algorithmic trading engine + API + ready-made adapters to stock and forex brokers, crypto exchanges, and market data providers. 12+ exchanges, 5 asset classes, 150 indicators. You can use it as a cloud API, or you can deploy it on your servers. See examples of applications to build with Tradematic Cloud at https://tradematic.cloud",
+      "tags": [
+      ],
+      "createdAt": "2020-03-24T16:03:55.475Z",
+      "baseURL": "https://api.tradematic.com",
+      "contact": [
+      ],
+      "name": "Tradematic Cloud API",
+      "apiFileUrl": "http://tradematic.cloud/sdk/apis.json",
+      "properties": [
+      ],
+      "slug": "tradematic-cloud-api",
+      "humanURL": "https://tradematic.cloud",
+      "updatedAt": "2020-03-24T16:03:55.895Z"
+    },
+    {
+      "image": "https://scontent-cdt1-1.xx.fbcdn.net/v/t1.0-9/68902706_1931454930289205_1053923784039333888_n.png?_nc_cat=106&_nc_ohc=Rhhto6UFWowAX_k3FKs&_nc_ht=scontent-cdt1-1.xx&oh=33f4723328e5ebe9bd0cb7de37175fa5&oe=5ED26F2E",
+      "authoritative": true,
+      "description": "We are a financial statements API, a free stock API and a historical quotes API. Find all companies financial reports, company stock prices in Real-time.",
+      "tags": [
+        "application programming interface",
+        "API",
+        "Tech",
+        "financial Statements API",
+        "stock prices API",
+        "historical data API"
+      ],
+      "createdAt": "2020-02-16T14:04:00.164Z",
+      "baseURL": "https://financialmodelingprep.com/api/v3/",
+      "contact": [
+        {
+          "FN": "FMP API Team",
+          "Url": "https://financialmodelingprep.com/contact",
+          "email": "info@financialmodelingprep.com"
+        }
+      ],
+      "name": "Financial Modeling Prep API",
+      "apiFileUrl": "https://financialmodelingprep.com/apis.json",
+      "properties": [
+        {
+          "type": "X-github",
+          "url": "https://github.com/antoinevulcain/Financial-Modeling-Prep-API"
+        },
+        {
+          "type": "X-twitter",
+          "url": "https://twitter.com/financial_mod"
+        },
+        {
+          "type": "X-signup",
+          "url": "https://financialmodelingprep.com/register"
+        }
+      ],
+      "slug": "financial-modeling-prep-api",
+      "humanURL": "https://financialmodelingprep.com/developer/docs/",
+      "updatedAt": "2020-02-16T14:04:00.743Z"
+    },
+    {
+      "image": "https://i.imgur.com/ZTXzrjG.png",
+      "authoritative": true,
+      "description": "Shorten a long URL",
+      "tags": [
+        "shorten",
+        "url shortener",
+        "shorten long uri",
+        "short url"
+      ],
+      "createdAt": "2020-02-11T14:01:43.379Z",
+      "baseURL": "https://tinyuid.com/docs",
+      "contact": [
+      ],
+      "name": "Shorten long URLs",
+      "apiFileUrl": "https://tinyuid.com/tinyuid/apis.json",
+      "properties": [
+      ],
+      "slug": "shorten-long-urls",
+      "humanURL": "https://tinyuid.com/docs",
+      "updatedAt": "2020-02-11T14:01:43.758Z"
+    }
+  ],
+  " limit": 10,
+  " skip": 0,
+  "status": "success"
+}
+}
